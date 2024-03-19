@@ -1,0 +1,3 @@
+C:/Users/jrami/OneDrive/Documents/GitHub/CSCI202/cmake-build-debug/CMakeFiles/CSCI202.dir
+C:/Users/jrami/OneDrive/Documents/GitHub/CSCI202/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jrami/OneDrive/Documents/GitHub/CSCI202/cmake-build-debug/CMakeFiles/rebuild_cache.dir
